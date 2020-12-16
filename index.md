@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 100 days of ML
 
 You can use the [editor on GitHub](https://github.com/HarshaSatyavardhan/Myblog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
