@@ -1,63 +1,63 @@
 
 Internship details
 ---
-> January
+> **January  
 
 | Internship | Link | Date |
 |------------|------|------|
 |||
 
 
-> February
+> **February
 
 | Internship | Link | Date |
 |------------|------|------|
 |||
 
 
-> March
+> **March
 
 | Internship | Link | Date |
 |------------|------|------|
 |||
 
 
-> April
+> **April
 
 | Internship | Link | Date |
 |------------|------|------|
 |||
 
 
-> May
+> **May
 
 | Internship | Link | Date |
 |------------|------|------|
 |||
 
 
-> June
+> **June
 
 | Internship | Link | Date |
 |------------|------|------|
 |||
 
 
-> July
+> **July
 
 | Internship | Link | Date |
 |------------|------|------|
 |||
 
 
-> August
+> **August
 
 | Internship | Link | Date |
 |------------|------|------|
 |||
 
 
-> September
+> **September
 
 
 | Internship | Link | Date |
@@ -65,21 +65,21 @@ Internship details
 |||
 
 
-> October
+> **October
 
 | Internship | Link | Date |
 |------------|------|------|
 |||
 
 
-> November
+> **November
 
 | Internship | Link | Date |
 |------------|------|------|
 |- MIT Summer Research Program – General (MSRP)| [Link](https://oge.mit.edu/graddiversity/msrp/) |- November 1|
 
 
-> December
+> **December
 
 | Internship | Link | Date |
 |------------|------|------|
