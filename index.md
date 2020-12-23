@@ -5,7 +5,8 @@ Internship details
 
 | Internship | Link | Date |
 |------------|------|------|
-|||
+|USC Vertibri|[Link](https://www.iusstf.org/program/iusstf-viterbi-program)|Jan|
+|SN Bose Scholorship|[LINK](http://49.50.66.168/Program_Details.aspx?ProgramFor=2)|Dec-Jan|
 
 
 > **February
