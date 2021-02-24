@@ -64,7 +64,7 @@ Internship details
 
 | Internship | Link | Date |
 |------------|------|------|
-|||
+|SN Bose Scholorship||
 
 
 > **October
